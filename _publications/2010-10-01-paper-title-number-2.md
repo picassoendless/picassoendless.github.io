@@ -6,7 +6,7 @@ permalink: /publication/2025-12-01-human-firewall
 excerpt: 'Introduces the human firewall concept, leveraging storytelling, community awareness, and collective intelligence for cybersecurity.'
 date: 2025-12-01
 venue: 'International Journal of Scientific and Management Research'
-paperurl: '(https://academicpages.github.io/files/slides3.pdf)'
+paperurl: 'https://academicpages.github.io/files/slides3.pdf'
 bibtexurl: 'files/ijsmr08_163.pdf'
 citation: 'Bikadho, A., Mukundwi, B., Taruvinga, N., & Nemure, T. (2025). &quot;The human firewall: Reframing cybersecurity through storytelling, awareness, and community intelligence.&quot; <i>International Journal of Scientific and Management Research</i>. 8(12), 352–371.'
 ---
