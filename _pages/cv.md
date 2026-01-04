@@ -52,7 +52,9 @@ Skills
 * Programming: Java, Kotlin, Python, Rust, C#, C++, Go, Bash, JavaScript
 * Cloud & DevSecOps: AWS (SageMaker, ECS, Lambda), Docker, Kubernetes, Terraform, CI/CD (CodePipeline), Ansible
 * Security Tools: Splunk, ELK, Nessus, Nmap, Burp Suite, Metasploit, OWASP ZAP, Wireshark, Sigma Rules, MITRE ATT&CK
-* AI/ML: TensorFlow, scikit-learn, Random Forest, Isolation Forest, Neural Networks
+* AI/ML & LLMs: LangChain, LlamaIndex, OpenAI API (GPT), Anthropic API (Claude), Hugging Face Transformers, PyTorch, TensorFlow, scikit-learn
+  * Agentic AI: LangGraph, CrewAI, AutoGen, RAG pipelines
+  * Embeddings: FAISS, Pinecone, Chroma
 * Compliance: NIST CSF, ISO 27001, HIPAA, GDPR
 * Other: React Native, Flutter, Django, Laravel, Spring Boot, MySQL
 
