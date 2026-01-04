@@ -1,19 +1,12 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
----
-permalink: /
 title: "Tendai Nemure – Cybersecurity & AI Research"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-***
+---
+
 
 Tendai Nemure is a cybersecurity researcher based in New York, currently completing an M.S. in Cybersecurity (GPA 4.0) at Yeshiva University’s Katz School of Science and Health. Tendai’s background combines deep learning, security analytics, and applied cryptography, with prior training in Information Technology from Bindura University of Science Education in Zimbabwe.
 
