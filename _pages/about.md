@@ -27,14 +27,6 @@ His work emphasizes building secure, trustworthy intelligent systems that balanc
 
 Current research includes *Silent by Design: Reasoning Vulnerabilities in Medical Chain-of-Thought Systems*, investigating security and interpretability challenges in AI-driven clinical decision support.
 
-## Background
-
-Tendai's experience spans academic research, teaching, and professional software engineering. His research has explored AI-driven threat detection, behavior analytics, and security in critical infrastructure and healthcare systems. He has also taught cybersecurity and software development courses, mentoring students through complex technical projects.
-
-In 2023–2024, Tendai founded the Community Technology Education Initiative (CTEI), delivering digital literacy and cybersecurity education to over 400 community members in rural Zimbabwe—work that earned recognition for excellence in digital inclusion and community impact.
-
-## Looking Forward
-
 Tendai is pursuing advanced research opportunities at the intersection of AI, cybersecurity, and healthcare technology. His goal is to develop intelligent systems that are not only powerful and efficient, but also secure, privacy-aware, and aligned with human values—particularly in safety-critical and data-sensitive domains.
 
 ---
