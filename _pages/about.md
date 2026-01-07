@@ -31,5 +31,5 @@ Tendai is pursuing advanced research opportunities at the intersection of AI, cy
 
 ---
 
-**Contact:** tnemure@mail.yu.edu | [LinkedIn](#) | [GitHub](#) | [Google Scholar](#) | [ORCID](#)
+
 
